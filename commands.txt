@@ -1,0 +1,2 @@
+# Should be run on each 'git clone' to ensure entire tree has submodulized initialized and up-to-date
+git submodule update --init --recursive
